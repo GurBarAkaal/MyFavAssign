@@ -1,0 +1,36 @@
+html {
+  background: url("img/background.jpg") center fixed;
+  background-size: cover;
+}
+
+body {
+  background-color: #ffffff;
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  opacity: 0.9;
+}
+
+.center {
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-family: "Cinzel", serif;
+  letter-spacing: 1px;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+a,
+.grey {
+  color: rgb(175, 175, 175);
+}
+
+a:hover {
+  font-weight: bold;
+}
